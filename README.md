@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, 
 I'm Wallace Vilasboas Ferreira</h1>
-<h3 align="center">I'm a frontend development student passionate about technology and random knowledge kkkk</h3>
+<h3 align="center">I'm a frontend development student passionate about technology and random knowledge :D </h3>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
